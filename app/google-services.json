@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "511830883848",
+    "project_id": "anna-clinic-f1084",
+    "storage_bucket": "anna-clinic-f1084.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511830883848:android:50ecade592ea4e8c2cdbbd",
+        "android_client_info": {
+          "package_name": "com.example.annaclinic"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQD7n4MBOXgr9Ca98ZNs_PchDalcYh1hg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

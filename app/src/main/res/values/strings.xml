@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Anna Clinic</string>
+    <string name="reservation_list">Reservasi</string>
+    <string name="upload_image">Banner</string>
+    <string name="profile">Profile</string>
+    <string name="home">Beranda</string>
+    <string name="anna_clinic">Anna Clinic</string>
+    <string name="daftar_reservasi">Daftar Reservasi</string>
+    <string name="reservasi">Reservasi</string>
+    <string name="detail_reservasi">Detail Reservasi</string>
+    <string name="pastikan_penulisan_email_benar">Pastikan penulisan email benar!</string>
+</resources>

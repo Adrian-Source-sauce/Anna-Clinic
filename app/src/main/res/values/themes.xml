@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.AnnaClinic.Splash" parent="Theme.SplashScreen">
+        <!--        <item name="android:windowBackground">@drawable/splash_screen</item>-->
+        <!--        <item name="android:windowFullscreen">true</item>-->
+        <!--        <item name="android:windowNoTitle">true</item>-->
+        <item name="windowSplashScreenBackground">@color/white</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/round_local_hospital_24</item>
+        <item name="postSplashScreenTheme">@style/Theme.AnnaClinic</item>
+    </style>
+
+    <style name="Theme.AnnaClinic" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
